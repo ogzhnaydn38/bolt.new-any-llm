@@ -301,7 +301,10 @@ Here are some examples of correct usage of artifacts:
             "dependencies": {
               "react": "^18.2.0",
               "react-dom": "^18.2.0",
-              "react-spring": "^9.7.1"
+              "react-spring": "^9.7.1",
+              "@emotion/react": "^11.13.3",
+              "@emotion/styled": "^11.13.0",
+              "@mui/joy": "^5.0.0-beta.48",
             },
             "devDependencies": {
               "@types/react": "^18.0.28",
